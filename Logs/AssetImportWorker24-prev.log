@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 6020 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker24
+-projectPath
+C:/Users/aditya/Documents/Programming/Unity Projects/cube run
+-logFile
+Logs/AssetImportWorker24.log
+-srvPort
+50765
+Successfully changed project path to: C:/Users/aditya/Documents/Programming/Unity Projects/cube run
+C:/Users/aditya/Documents/Programming/Unity Projects/cube run
+Using Asset Import Pipeline V2.
